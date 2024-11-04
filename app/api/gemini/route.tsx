@@ -2,7 +2,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import { NextRequest, NextResponse } from 'next/server';
 
 // Hardcoded API key for testing
-const API_KEY = 'AIzaSyCpJlyYx-TtILMWeBuLLnDP36khwolK8gA';
+const API_KEY = 'AIzaSyCrg_39mFDVkfdd2FokETm0IAOHE_QLtdU';
 
 export async function POST(req: NextRequest) {
   try {
